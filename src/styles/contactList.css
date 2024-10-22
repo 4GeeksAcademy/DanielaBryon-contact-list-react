@@ -1,0 +1,16 @@
+div.container-list {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.btnContact {
+  width: 300px;
+  border-radius: 20px;
+  background-color: #034e6e;
+  justify-content: center;
+  color: white;
+  margin: 20px;
+}

@@ -1,0 +1,7 @@
+.nav-link {
+  color: black;
+}
+.container-navbar {
+  display: flex;
+  font-size: 14px;
+}
